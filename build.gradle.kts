@@ -13,3 +13,7 @@ tasks {
         gradleVersion = "9.2.1"
     }
 }
+
+dependencies {
+    implementation("com.google.ortools:ortools-java:9.8.3296")
+}
